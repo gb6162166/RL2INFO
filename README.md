@@ -2,11 +2,9 @@
 
 <span style="color:#C00000">
 
-# Red Line 2
+# Red Line 2 Mod for PA - Unit Specs
 
 </span>
-
-## Unit Specs
 
 <span style="color:#FFCCFF">
 
