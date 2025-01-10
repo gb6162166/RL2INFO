@@ -21,6 +21,11 @@ gb6 recommends playing Red Line 2 using maps from the #gb6 Definitive map pack. 
 
 ### Advanced Bots
 
+</span>
+
+![](img/bots_spec_adv.png)
+
+<span style="color:#FFCCFF">
 
 ### Basic Vehicles
 
