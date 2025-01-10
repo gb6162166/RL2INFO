@@ -49,6 +49,13 @@ gb6 recommends playing Red Line 2 using maps from the #gb6 Definitive map pack. 
 
 ![](img/jets_spec_basic.png)
 
+<span style="color:#FFCCFF">
+
+### Advanced Air
+
+</span>
+
+![](img/jets_spec_adv.png)
 
 <span style="color:#FFCCFF">
 
